@@ -13,4 +13,6 @@ This repository is for additional Python scripts that I have used in my Master's
     3. Code groups the means of clipped rasters into each month for 30 years of data, and obtain the average of these means
     
    For this study, this process is done for total precipitation, 2 m temperature and snow depth ERA5 Land Monthly reanalysis data.
+   
+  For any questions, please feel free to reach out to me. 
     
